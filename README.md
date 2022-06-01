@@ -1,5 +1,5 @@
 ### Hi, I'm Tyler
-First year Engineering student at UofT (EngSci 2T5). Looking for things to do so I don't feel like I'm slacking off.  
+Second year Engineering student at UofT (EngSci 2T5). I like robotics and embedded development.
 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/FIRST_Logo.svg/1200px-FIRST_Logo.svg.png" alt="FIRST Logo" width="25px"> I used to be Programming Lead for [@Arctos6135](https://github.com/Arctos6135/) from 2018-2020 and very involved in FRC in general.
 
