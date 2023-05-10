@@ -1,9 +1,11 @@
 ### Hi, I'm Tyler
-Second year Engineering student at UofT (EngSci 2T5). I like robotics and embedded development.
+Third year Engineering Science student at UofT, Robotics Major (2T5).
 
-I'm currently a member of the University of Toronto Aerospace Team (UTAT)'s Unmanned Aerial Systems (UAS) Division, as a member of the software subteam of the SAE Aero Design competition team.
+Software Lead of the SAE Aero Design competition team at [UTAT UAS](https://www.utat.ca/uas) (University of Toronto Aerospace Team, Unmanned Aerial Systems Division).
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/FIRST_Logo.svg/1200px-FIRST_Logo.svg.png" alt="FIRST Logo" width="25px"> I used to be Programming Lead for [@Arctos6135](https://github.com/Arctos6135/) from 2018-2020 and very involved in FRC in general.
+Software subteam member of the Driverless team at [UTFR](https://fsaeutoronto.ca/) (University of Toronto Formula Racing).
+
+Ex-Software Lead for FRC Team [Arctos 6135](https://www.arctos6135.com/) from 2018-2020.
 
 I've also made minor contributions to open source projects such as [**wpilibsuite/shuffleboard**](https://github.com/wpilibsuite/shuffleboard) and [**naco-siren/vscode-gradle-language**](https://github.com/naco-siren/vscode-gradle-language).
  
